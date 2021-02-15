@@ -1,0 +1,22 @@
+<!Docktype html>
+<html>
+<head>
+	<title>my Valentine's</title>
+	<link rel="stylesheet" href="valentine.css">
+	<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11">
+</script>
+</head>
+<body>
+	<div class="box animated fadeInUp">
+		<img src="74114302.jpg" >
+		<h2 class="animated zoomIn">❤️<span id="txt"></span></h2>
+		<p class="animated fadeInUp">
+			I love you beyond the rain, stars, and moon. You are completely out of this world, my Valentine!</p>
+			</div>
+			
+			    <script type="text/javascript">
+ var typed3 = new Typed('#txt', { strings: ['Valentine Day','Enjoy with love','Be Happy Today','Shishir Ahmed Kawsar','I Love you so much Sathy!'], typeSpeed: 100, backSpeed: 50, smartBackspace: true, loop:true , });
+    </script> 
+		
+</body>
+</html>
